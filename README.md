@@ -64,6 +64,7 @@ Using the K means clustering model, the countries has been grouped into three ca
 The interactive view of the map is in the notebook.  [here](https://github.com/lasibrahim/Segmentation-Analysis/commit/226a81b6c730f1cd7f9b5559228e39c28a5a4a43#diff-9379d91d6feaaf6b4cab3e0d8c7cd850a1285ae2f7d8297da5a627996d38bac7)
 This grouping would make it easy for the NGO to easily and successfully disburse the donations among the countries base on the level of priority.
 
+[Segmentation Analysis on GitHub](https://github.com/lasibrahim/Segmentation-Analysis/blob/main/Unsupervised_learning.ipynb)
 
 _Thank you for reading this far. Your comments and observations are welcome_. 
 
