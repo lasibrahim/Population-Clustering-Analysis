@@ -1,9 +1,9 @@
-# Countries Segmentation-Analysis for Financial Aid
+# Countries Clkustering-Analysis for Financial Aid
 
 ![](segmentation.png)
 
 ## Introduction
-This case study focuses on segmenting a country dataset to effectively identify nations that require financial aid, prioritizing those with low GDP per capita and lower life expectancy.
+This case study focuses on clustering a dataset consisting of countries in regards to various social issues like health, inflation, child_morth, gdpp, life expectancy among others to effectively identify nations that require financial aid, prioritizing those with low GDP per capita and lower life expectancy.
 
 **_Disclaimer_**: All datasets and reports does not represent any company, country or institution. They are just dummy datasets for practise purposes.
 
